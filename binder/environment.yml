@@ -1,6 +1,7 @@
 name: geo-env
 channels:
   - conda-forge
+  - mamba
 dependencies:
   - gdal
   - geemap
