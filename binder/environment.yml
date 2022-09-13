@@ -6,7 +6,6 @@ channels:
 dependencies:
   - gdal
   - geemap
-  - ee
   - geopandas
   - leafmap
   - localtileserver
