@@ -18,3 +18,4 @@ dependencies:
   - arcgis
   - r-getpass
   - earthengine-api
+  - ipywidget
