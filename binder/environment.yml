@@ -1,0 +1,12 @@
+name: geo-env
+channels:
+  - conda-forge
+dependencies:
+  - gdal
+  - geemap
+  - geopandas
+  - leafmap
+  - localtileserver
+  - pip
+  - python>=3.9
+  - requests
