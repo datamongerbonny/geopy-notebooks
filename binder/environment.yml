@@ -4,9 +4,14 @@ channels:
 dependencies:
   - gdal
   - geemap
+  - ee
   - geopandas
   - leafmap
   - localtileserver
   - pip
   - python>=3.9
   - requests
+  - osmnx
+  - networkx
+  - arcgis
+  - getpass
