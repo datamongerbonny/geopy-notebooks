@@ -16,5 +16,5 @@ dependencies:
   - osmnx
   - networkx
   - arcgis
-  - getpass
+  - r-getpass
   - earthengine-api
