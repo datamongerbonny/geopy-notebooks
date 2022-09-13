@@ -9,6 +9,7 @@ dependencies:
   - geemap
   - geopandas
   - leafmap
+  - folium
   - localtileserver
   - pip
   - python>=3.9
