@@ -21,4 +21,5 @@ dependencies:
   - earthengine-api
   - ipywidgets
   - ipympl 
-  - jupyterlab  
+  - jupyterlab
+  - jupyterlab_widgets 
