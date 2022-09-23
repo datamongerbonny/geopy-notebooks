@@ -22,4 +22,9 @@ dependencies:
   - ipywidgets
   - ipympl 
   - jupyterlab
-  - jupyterlab_widgets 
+  - jupyterlab_widgets
+  - descartes          
+  - geographiclib      
+  - geojson            
+  - geopy
+  - missingno
