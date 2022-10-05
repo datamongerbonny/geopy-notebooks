@@ -29,3 +29,11 @@ dependencies:
   - geopy
   - missingno
   - sweetviz
+  - wtss
+  - plotly.express
+  - ipython
+  - libpysal
+  - mapclassify
+  - cenpy
+  - contextily
+  
