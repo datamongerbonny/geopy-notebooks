@@ -36,4 +36,10 @@ dependencies:
   - mapclassify
   - cenpy
   - contextily
+  - forestatrisk
+  - patsy
+  - pickle
+  - pywdpa
+  - sklearn
+  
   
