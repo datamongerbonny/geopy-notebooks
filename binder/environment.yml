@@ -41,5 +41,10 @@ dependencies:
   - pickle
   - pywdpa
   - sklearn
+  - stac
+  - glob
+  - tqdm
+  - time
+  - datetime
   
   
