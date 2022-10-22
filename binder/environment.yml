@@ -30,7 +30,7 @@ dependencies:
   - missingno
   - sweetviz
   - wtss
-  - plotly.express
+  - plotly_express
   - ipython
   - libpysal
   - mapclassify
@@ -38,11 +38,11 @@ dependencies:
   - contextily
   - forestatrisk
   - patsy
-  - pickle
+  - pickle5
   - pywdpa
   - sklearn
   - stac
-  - glob
+  - glob2
   - tqdm
   - time
   - datetime
