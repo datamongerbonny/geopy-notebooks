@@ -1,45 +1,31 @@
 name: geo-env
 channels:
   - conda-forge
-  - mamba
-  - esri
-  - pypi
+  - defaults
 dependencies:
-  - gdal
-  - geemap
-  - geopandas
-  - leafmap
-  - folium
-  - localtileserver
-  - pip
-  - python>=3.7
-  - requests
+  - conda
+  - mamba
   - osmnx
-  - networkx
+  - ca-certificates
+  - certifi
+  - openssl
+  - ipykernel
+  - python=3.9
   - arcgis
   - r-getpass
+  - jupyter_contrib_nbextensions
   - earthengine-api
-  - ipywidgets
-  - ipympl 
+  - ipysheet
+  - ipympl
   - jupyterlab
-  - jupyterlab_widgets
-  - descartes          
-  - geographiclib      
-  - geojson            
-  - geopy
+  - nodejs
   - missingno
+  - geopandas
+  - geopy
+  - descartes
+  - geojson
   - sweetviz
-  - wtss
   - plotly_express
-  - ipython
-  - libpysal
-  - mapclassify
-  - cenpy
-  - contextily
-  - forestatrisk
-  - patsy
-  - pickle5
-  - pywdpa
-  - sklearn
-  - stac
- 
+  - glob2
+  - jupyterhub
+
