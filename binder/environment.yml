@@ -46,9 +46,4 @@ dependencies:
   - tqdm
   - time
   - datetime
-  - jupyter_core
-  - jupyter_server
-  - nbformat
-  - nbclient
-  
   
