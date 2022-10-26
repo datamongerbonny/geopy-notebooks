@@ -1,6 +1,9 @@
 name: geo-env
 channels:
   - conda-forge
+  - mamba
+  - esri
+  - pypi
   - defaults
 dependencies:
   - conda
@@ -28,4 +31,3 @@ dependencies:
   - plotly_express
   - glob2
   - jupyterhub
-
