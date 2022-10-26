@@ -16,6 +16,9 @@ dependencies:
   - python=3.9
   - arcgis
   - r-getpass
+  - r-base
+  - r-irkernel
+  - r-devtools
   - jupyter_contrib_nbextensions
   - earthengine-api
   - ipysheet
