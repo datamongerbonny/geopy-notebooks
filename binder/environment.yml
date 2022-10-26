@@ -42,8 +42,4 @@ dependencies:
   - pywdpa
   - sklearn
   - stac
-  - glob2
-  - tqdm
-  - time
-  - datetime
-  
+ 
