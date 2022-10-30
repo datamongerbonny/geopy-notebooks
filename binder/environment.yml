@@ -15,6 +15,7 @@ dependencies:
   - ipykernel
   - python=3.9
   - arcgis
+  - geemap
   - r-getpass
   - r-base
   - r-irkernel
