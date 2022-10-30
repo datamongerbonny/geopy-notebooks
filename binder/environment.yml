@@ -40,4 +40,4 @@ dependencies:
   - leafmap
   - pip
   - localtileserver
-  - StringIO
+
