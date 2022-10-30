@@ -13,7 +13,7 @@ dependencies:
   - certifi
   - openssl
   - ipykernel
-  - python=3.9
+  - python>=3.9
   - arcgis
   - geemap
   - r-getpass
@@ -35,3 +35,8 @@ dependencies:
   - plotly_express
   - glob2
   - jupyterhub
+  - gdal
+  - requests
+  - leafmap
+  - pip
+  - localtileserver
